@@ -1,0 +1,100 @@
+body  
+{  
+    background-image: url(earphones.jpg); 
+    font-family: 'Arial';
+    background-repeat: no-repeat;  
+    background-size: cover;
+    height: 100%;
+    font-family: 'Montserrat', sans-serif;
+}  
+.login{  
+        width: 382px;  
+        overflow: hidden;  
+        
+        margin-top: 0%;
+        margin: 5px 20px 25px 450px;  
+        padding: 80px;  
+        background: white;  
+        border-radius: 0% ;  
+        align-items: center;
+        border-radius: 10px;
+          
+}  
+h2{  
+    text-align: center;  
+    color: white;  
+    padding: 20px;  
+    
+}  
+label{  
+    color: black;  
+    font-size: 17px;  
+}  
+#fname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;
+    background-color: aliceblue;  
+}
+#lname{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;
+    background-color: aliceblue;  
+}
+#email{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;
+    background-color: aliceblue;  
+}  
+#Pass{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 3px;  
+    padding-left: 8px;  
+    background-color: aliceblue; 
+}  
+#reg{  
+    width: 300px;  
+    height: 30px;  
+    border: none;  
+    border-radius: 17px;  
+    padding-left: 7px;  
+    color: white;
+    background-color: black; 
+    font-family: 'Montserrat', sans-serif; 
+  
+  
+}  
+#reg:hover{
+    color: white;
+    background-color: crimson;
+    
+}
+span{  
+      color: crimson;  
+    font-size: 25px;  
+}  
+a {
+	border-radius: 10px;
+background-color: transparent;
+	text-align: center;
+	color: blue;
+	padding:10px;
+}
+a:hover{
+	border-radius: 10px;
+    background-color: whitesmoke;
+	text-align: center;
+	color:black;
+	padding:10px;
+}
+
